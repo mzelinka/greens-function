@@ -2,7 +2,7 @@
 A netcdf file containing six Green's functions computed from CAM5 simulations of Zhou et al. (2017).
 
 The file contains maps quantifying the globally averaged TOA radiative flux anomalies due to anomalies in the following fields that are themselves attributable to sea surface warming at each location.
-1. atmospheric temperature, and its break down into vertically-uniform (Planck) and vertically-nonuniform (lapse rate) components 
+1. surface + atmospheric temperature, and its break down into vertically-uniform (Planck) and vertically-nonuniform (lapse rate) components 
 2. atmospheric water vapor
 3. clouds
 
