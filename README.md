@@ -1,4 +1,8 @@
 # greens-function
+
+[![DOI](https://zenodo.org/badge/155776110.svg)](https://zenodo.org/badge/latestdoi/155776110)
+
+
 A netcdf file containing six Green's functions computed from CAM5 simulations of Zhou et al. (2017).
 
 The file contains maps quantifying the globally averaged TOA radiative flux anomalies due to anomalies in the following fields that are themselves attributable to sea surface warming at each location.
