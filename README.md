@@ -21,3 +21,7 @@ Zhou, C., M. D. Zelinka, and S. A. Klein, 2017: Analyzing the dependence of glob
 Figure
 ----------
 See the [images directory](https://github.com/mzelinka/greens-function/tree/master/images) for maps of the six Green's functions.
+
+See Also
+----------
+CAM4 Green's functions developed by Dong et al. have been kindly provided at [Yue Dong's website](https://sites.google.com/view/yuedong-atmos/data?authuser=0).
