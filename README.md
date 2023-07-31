@@ -25,3 +25,4 @@ See the [images directory](https://github.com/mzelinka/greens-function/tree/mast
 See Also
 ----------
 CAM4 Green's functions developed by Dong et al. have been kindly provided at [Yue Dong's website](https://sites.google.com/view/yuedong-atmos/data?authuser=0).
+Several other modeling groups are in the process of constructing Green's functions and an intercomparison project has been proposed to standardize the procedure. Read more at the [GFMIP website](https://gfmip.org/).
