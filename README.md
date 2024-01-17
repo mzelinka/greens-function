@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/155776110.svg)](https://zenodo.org/badge/latestdoi/155776110)
 
-The following Green's functions are provided:
+The following Green's functions are provided in the [data directory](https://github.com/mzelinka/greens-function/tree/master/data):
 - Zhou_etal_2017_GreensFunction.nc: computed from 5-year CAM5 simulations of Zhou et al. (2017)
 - Zhou_etal_2020_GreensFunction.nc: computed from 40-year CAM5 simulations of Zhou et al. (2020)
 
@@ -23,7 +23,7 @@ Convolving these Green's functions with sea surface temperature anomalies provid
 
 Each netcdf file also contains a surface temperature Green's function, which quantifies the globally averaged surface temperature anomaly due to sea surface warming at each location.
 
-Reference
+References
 ----------
 - Zhou, C., M. D. Zelinka, and S. A. Klein, 2017: Analyzing the dependence of global cloud feedback on the spatial pattern of sea surface temperature change with a Green’s Function approach, *J. Adv. Model. Earth Syst.*, **9**, 2174-2189, [doi:10.1002/2017MS001096](http://onlinelibrary.wiley.com/doi/10.1002/2017MS001096/abstract).
 - Zhou, C., Y. Hu, J. Lu, and M. D. Zelinka, 2020: Responses of the Hadley Circulation to regional sea surface temperature changes, _J. Climate_, **33**, 429-441, [doi:10.1175/JCLI-D-19-0315.1](https://journals.ametsoc.org/view/journals/clim/33/2/jcli-d-19-0315.1.xml).
