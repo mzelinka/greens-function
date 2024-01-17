@@ -11,13 +11,15 @@ Zhou_etal_2017_GreensFunction.nc contains maps quantifying the globally averaged
 2. vertically-nonuniform (lapse rate) temperature response
 3. atmospheric water vapor
 4. clouds
-
+5. net response (sum over all components)
+   
 Zhou_etal_2020_GreensFunction.nc contains maps quantifying the globally averaged TOA radiative flux anomalies due to anomalies in the following fields that are themselves attributable to sea surface warming at each location:
 1. vertically-uniform (Planck) temperature response, for both the conventional and constant-RH breakdown
 2. vertically-nonuniform (lapse rate) temperature response, for both the conventional and constant-RH breakdown
 3. atmospheric water vapor, both the change in absolute humidity and the change in RH
 4. clouds + their LW and SW components
 5. surface albedo
+6. net response (sum over all components)
 
 Convolving these Green's functions with sea surface temperature anomalies provides an estimate of the global mean change in radiation due to changes in temperature, water vapor, or clouds.
 
